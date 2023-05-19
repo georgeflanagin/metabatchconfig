@@ -1,0 +1,22 @@
+[deny_access_to_node]
+
+
+[time_restricted_access_to_node] 
+    [yangnolin]
+        not_before : 5/1/2023
+        not_after : 9/1/2023
+
+[allow_access_to_node]
+basic: people 
+medium: people
+large: people
+ML: people
+sci: people
+bukach: cbukach$
+dias: mdias$
+erickson: perickso$
+johnson: ljohnso3$
+parish: cparish$
+yang1: myang$
+yang2: myang$
+yangnolin: myang$ knolin$
